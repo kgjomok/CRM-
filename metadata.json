@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Business System v1+1",
+  "description": "A reusable SaaS appointment booking system template for beauty salons, dental clinics, and private medical clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
